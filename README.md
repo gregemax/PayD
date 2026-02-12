@@ -113,3 +113,4 @@ This template provides a ready-to-use frontend application with example smart co
 # PayD
 
 # PayAll
+# PayD
