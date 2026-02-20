@@ -10,7 +10,6 @@
     "lint": "eslint .",
     "format": "prettier . --write"
   },
- 
   "workspaces": [
     "packages/*"
   ],
@@ -58,9 +57,9 @@
     "vite-plugin-wasm": "^3.5.0"
   },
   "lint-staged": {
-  "src/**/*.{ts,tsx}": [
-    "eslint --fix",
-    "prettier --write"
-  ]
-}
+    "src/**/*.{ts,tsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ]
+  }
 }
